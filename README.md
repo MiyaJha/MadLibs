@@ -1,5 +1,5 @@
-# Madlibs JavaScript Practice Assignment#
-##Objectives##
+# Madlibs JavaScript Practice Assignment 
+## Objectives
 ***Understand Template Literals***
 Learn how to use template literals (``) to insert variables dynamically into a string.
 ***Variable Declaration and Assignment***
